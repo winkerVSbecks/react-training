@@ -1,7 +1,7 @@
 ---
 layout: lesson
 title: "React Training"
-permalink: /
+permalink: /index.html
 ---
 
 -   [Overview](/overview/)
